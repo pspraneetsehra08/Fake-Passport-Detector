@@ -6,12 +6,12 @@ Database used is PostgreSQL, the fake passport report images are stored on [clou
 - Built using Django and storing passport details on the blockchain
 - Includes graphs to help analyze and track fake passport reports over time and in various geographical locations
 
-Three main authorities: 
+## Three main authorities: 
 - Passport issuing authority 
 - Passport verifying authority
 - Security officials present at the airports
 
-Flow:
+## Flow:
 - Passport issuing authority creates and edits passports and has access to fake passport analysis
 - Passport verifying authority enters passport number and checks if physical passport is legitimate
 - Security officials of specific airport where fake passport has been reported are alerted by email
