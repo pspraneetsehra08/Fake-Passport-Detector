@@ -18,6 +18,8 @@ Flow:
 
 This web app is a valuable tool for governments and organizations that need to verify the authenticity of passports. It is easy to use and provides a number of features that make it more effective than traditional methods of passport verification. The app's use of blockchain technology makes it tamper-proof and secure, and the graphs it generates provide valuable insights into the trends of fake passport reports. This app is a valuable addition to any organization's security toolkit.
 
+## Tech Used
+
 - Ethereum Blockchain
 - Solidity
 - Infura
