@@ -3,15 +3,20 @@
 This is a project made by [Praneet Singh Sehra](https://github.com/pspraneetsehra08).
 Database used is PostgreSQL, the fake passport report images are stored on [cloudinary](https://cloudinary.com/), the passport details are stored on Goerli test network with the profile image and signature image being stored on ipfs which is deployed using the api provided by [web3.storage](https://web3.storage/). The fake passport analysis graphs are generated using [Highcharts](https://www.highcharts.com/).  
 
-- This is a web app build using django where the passport details are stored on blockchain which when included to the existing passport verification process (conducted at airports) existing in India makes it more robust and easy to detect fake passports.  
-- The app also provides graphs that help analyze and get useful information to track down fake passport reports over time and in various geographical locations.  
-- There are three main authorities, the passport issuing authority, passport verifying authority and the security officials present at the airports.  
-- The flow is as follows:
-  - The passport issuing authority creates and edits the passports as well as has access to the analysis of the fake passports reported.
-  - The passport verifying authority enters the passport number of the passenger and checks if the physical passport provided is a legitimate passport or not, if not then they can report the fake passport.
-  - The security officials of the specific airport where the fake passport has been reported will be alerted about the same by email.
+- Built using Django and storing passport details on the blockchain
+- Includes graphs to help analyze and track fake passport reports over time and in various geographical locations
 
-## Tech Used
+Three main authorities: 
+- Passport issuing authority 
+- Passport verifying authority
+- Security officials present at the airports
+
+Flow:
+- Passport issuing authority creates and edits passports and has access to fake passport analysis
+- Passport verifying authority enters passport number and checks if physical passport is legitimate
+- Security officials of specific airport where fake passport has been reported are alerted by email
+
+This web app is a valuable tool for governments and organizations that need to verify the authenticity of passports. It is easy to use and provides a number of features that make it more effective than traditional methods of passport verification. The app's use of blockchain technology makes it tamper-proof and secure, and the graphs it generates provide valuable insights into the trends of fake passport reports. This app is a valuable addition to any organization's security toolkit.
 
 - Ethereum Blockchain
 - Solidity
