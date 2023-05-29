@@ -1,0 +1,4 @@
+*__pycache__
+.env
+main/compiled-sol.json
+media/
