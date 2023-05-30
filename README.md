@@ -100,7 +100,7 @@ py manage.py runserver
 ![Desktop Report Fake Passport Page](screenshots/ss8.png)
 ---
 
-![Security Email](screenshots/ss9.png)
+![Security Email](screenshots/ss91.png)
 
 ### Mobile Devices
 
