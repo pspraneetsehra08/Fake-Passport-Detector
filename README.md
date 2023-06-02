@@ -42,9 +42,9 @@ This web app is a valuable tool for governments and organizations that need to v
 
 ## Running this project
 
-1. Clone the repository
-2. Create the env file using the env-sample file
-3. Run the following command from the root of the project
+1. Clone the repository.
+2. Create the env file using the env-sample file.
+3. Run the following command from the root of the project.
 
 ```bash
 pip install -r requirements.txt
