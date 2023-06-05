@@ -5,7 +5,7 @@ This is a project made by [Praneet Singh Sehra](https://github.com/pspraneetsehr
 Database used is PostgreSQL, the fake passport report images are stored on [cloudinary](https://cloudinary.com/), the passport details are stored on Goerli test network with the profile image and signature image being stored on ipfs which is deployed using the api provided by [web3.storage](https://web3.storage/). The fake passport analysis graphs are generated using [Highcharts](https://www.highcharts.com/).  
 
 - Built using Django and storing passport details on the blockchain.
-- Includes graphs to help analyze and track fake passport reports over time and in various geographical locations.
+- Includes graphs to help analyze and track fake passport reports over time and in various geographical locations
 
 ## Three main authorities: 
 - Passport issuing authority 
