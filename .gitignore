@@ -2,3 +2,4 @@
 .env
 main/compiled-sol.json
 media/
+#gitinore
