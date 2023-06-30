@@ -107,6 +107,3 @@ py manage.py runserver
 | ![Mobile Login Page](screenshots/ss10.png) | ![Mobile Home Page](screenshots/ss11.png) | ![Mobile Upload Passport Page](screenshots/ss12.png) | ![Mobile Update Passport Page](screenshots/ss13.png) |
 |---|---|---|---|
 | ![Mobile Update Passport Edit Page](screenshots/ss14.png) | ![Mobile Verify Passport Page](screenshots/ss15.png) | ![Mobile Verify Passport Display Details Page](screenshots/ss16.png) | ![Mobile Report Fake Passport Page](screenshots/ss17.png) |  
-#READMEP
-#Update readme
-#updreadme.na104
