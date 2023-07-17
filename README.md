@@ -108,4 +108,3 @@ py manage.py runserver
 |---|---|---|---|
 | ![Mobile Update Passport Edit Page](screenshots/ss14.png) | ![Mobile Verify Passport Page](screenshots/ss15.png) | ![Mobile Verify Passport Display Details Page](screenshots/ss16.png) | ![Mobile Report Fake Passport Page](screenshots/ss17.png) |  
 vxaaaaaaaaaaaa
-bds
