@@ -81,7 +81,6 @@ py manage.py runserver
 
 ![Desktop Home Page](screenshots/ss2.png)
 ---
-
 ![Desktop Upload Passport Page](screenshots/ss3.png)
 ---
 
