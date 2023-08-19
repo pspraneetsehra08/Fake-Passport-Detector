@@ -6,7 +6,6 @@ Database used is PostgreSQL, the fake passport report images are stored on [clou
 
 - Built using Django and storing passport details on the blockchain.
 - Includes graphs to help analyze and track fake passport reports over time and in various geographical locations
-
 ## Three main authorities: 
 - Passport issuing authority 
 - Passport verifying authority
