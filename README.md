@@ -98,7 +98,6 @@ py manage.py runserver
 ---
 
 ![Security Email](screenshots/ss91.png)
-
 ### Mobile Devices
 | ![Mobile Login Page](screenshots/ss10.png) | ![Mobile Home Page](screenshots/ss11.png) | ![Mobile Upload Passport Page](screenshots/ss12.png) | ![Mobile Update Passport Page](screenshots/ss13.png) |
 |---|---|---|---|
